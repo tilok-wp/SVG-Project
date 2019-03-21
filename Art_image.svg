@@ -94,7 +94,7 @@
 		.strockpath {
 			stroke-dasharray: 2300;
 			stroke-dashoffset: 2300;
-			animation: dash 20s linear forwards;
+			animation: dash 20s linear forwards infinite;
 		}
 		.st0,
 		.st9 {
